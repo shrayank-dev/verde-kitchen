@@ -19,7 +19,7 @@ A premium restaurant landing page created for restaurants, cafés, and food busi
 
 ## 🌐 Live Demo
 
-Coming Soon
+https://verde-kitchen-omega.vercel.app/
 
 ## 👨‍💻 Developer
 
